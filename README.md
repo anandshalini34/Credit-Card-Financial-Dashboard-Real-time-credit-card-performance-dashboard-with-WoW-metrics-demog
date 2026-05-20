@@ -40,8 +40,6 @@ Credit-Card-Financial-Dashboard/
 ├── README.md
 └── requirements.txt
 
-Here's the **short & precise** version of Project Insights for your GitHub README:
-
 ---
 
 # 📊 PROJECT INSIGHTS –
