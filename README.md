@@ -1,5 +1,5 @@
 # Credit-Card-Financial-Dashboard
-Real-time credit card performance dashboard with WoW metrics & demographic insights
+
 # Project Overview
 
 This project is a comprehensive **Credit Card Financial Dashboard** built using **Power BI**. It provides real-time insights into key performance metrics, enabling stakeholders to monitor and analyze credit card operations effectively.
