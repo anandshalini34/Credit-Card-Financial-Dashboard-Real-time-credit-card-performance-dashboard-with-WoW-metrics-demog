@@ -1,6 +1,6 @@
 # Credit-Card-Financial-Dashboard
 
-Project Overview
+# Project Overview
 
 This project is a comprehensive **Credit Card Financial Dashboard** built using **Power BI**. It provides real-time insights into key performance metrics, enabling stakeholders to monitor and analyze credit card operations effectively.
 
