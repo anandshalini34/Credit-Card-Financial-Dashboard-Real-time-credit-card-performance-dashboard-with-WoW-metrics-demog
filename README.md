@@ -22,24 +22,25 @@ The dashboard includes:
 | **GitHub** | Version control and project hosting |
 
 Credit-Card-Financial-Dashboard/
+```
 │
-├── data/
-│   ├── credit_card_transactions.csv
-│   └── customer_details.csv
+├──  data/
+│    ├── credit_card_transactions.csv
+│    └── customer_details.csv
 │
-├── sql/
-│   ├── create_tables.sql
-│   └── data_import.sql
+├──  sql/
+│    ├── create_tables.sql
+│    └── data_import.sql
 │
-├── power_bi/
-│   └── credit_card_dashboard.pbix
+├──  power_bi/
+│    └── credit_card_dashboard.pbix
 │
 ├── exports/
 │   └── dashboard_report.pdf
 │
-├── README.md
-└── requirements.txt
-
+├──  README.md
+└──  requirements.txt
+```
 ---
 
 # 📊 PROJECT INSIGHTS –
