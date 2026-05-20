@@ -1,4 +1,7 @@
-# Credit-Card-Financial-Dashboard
+# Credit-Card-Financial-Dashboard 
+
+Real-time credit card performance dashboard with WoW metrics & demographic insights
+
 
 # Project Overview
 
